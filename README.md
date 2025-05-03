@@ -8,24 +8,21 @@ I love crafting engaging and responsive user experiences using modern web techno
 ## 🛠 Tech Stack
 
 ### 💻 Frontend
-- HTML5 | CSS3 (SASS/SCSS) | JavaScript | TypeScript  
-- React.js | Next.js | Tailwind CSS | Bootstrap  
+- HTML5 | CSS3  | JavaScript 
+- Tailwind CSS | Bootstrap  
 
 ### 🧰 Backend
 - Node.js | PHP | Java | Python  
 - Express.js | Prisma  
 
 ### 🛢 Databases
-- PostgreSQL | MongoDB | MySQL  
+- PostgreSQL | SQL | MySQL  
 
 ### 🚀 Tools & Platforms
 - Git | GitHub | Firebase | REST APIs  
 
-### ☁ Deployment & Hosting
-- Vercel | Netlify | Heroku | Render | cPanel  
 
-### 🌐 Other Technologies
-- Dart | JSON | AJAX
+
 
 ---
 
